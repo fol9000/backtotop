@@ -1,0 +1,14 @@
+{
+    "name": "back-to-top",
+    "version": "0.0.1",
+    "description": "Back to top",
+    "author": "Frank O. Laus",
+    "license": "MIT",
+    "repository": "https://github.com/fol9000/backtotop",
+    "main": "src/back-to-top.min.js",
+    "dependencies": {
+        "jquery": "^3.7.0"
+    },
+    "devDependencies": {
+    }
+}
